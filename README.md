@@ -1,2 +1,7 @@
-# PortfolioFirstDraft
-Portfolio project; Intended to practice advanced CSS as well as HTML5.
+#Updated-Portfolio 
+
+
+Updating portfolio with bootstrap. 
+
+
+Deployed URL: https://acleffel.github.io/Updated-Porfolio-/
