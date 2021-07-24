@@ -1,2 +1,2 @@
-# Updated-Porfolio-
-An updated version of my portfolio with bootstrap. 
+# PortfolioFirstDraft
+Portfolio project; Intended to practice advanced CSS as well as HTML5.
